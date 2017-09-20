@@ -45,6 +45,7 @@ h1, h2, h3, h4 {
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+    font-family: 'Oswald', cursive;
 }
 
 .post {
@@ -54,3 +55,7 @@ h1, h2, h3, h4 {
 .post h1 a, .post h1 a:visited {
     color: #AEB1FF;/*포스트 제목과 헤더 배경이 같은색으로 지정*/
 }
+
+p.top-menu {
+    font-family: 'Oswald', cursive;
+  }
